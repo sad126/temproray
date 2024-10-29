@@ -9,7 +9,7 @@ public class Ex_1 : MonoBehaviour
     {
         int count = 0;
         while (count < 20){
-            int num = new Random(1, 21);
+            int num = Random.Range(1, 21);
             if(num == 5){
                 continue;
             }

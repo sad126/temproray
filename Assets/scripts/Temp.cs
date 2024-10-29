@@ -7,7 +7,7 @@ public class Temp : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("dfsvchjnx");
     }
 
     // Update is called once per frame

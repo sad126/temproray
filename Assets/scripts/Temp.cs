@@ -8,6 +8,7 @@ public class Temp : MonoBehaviour
     void Start()
     {
         Debug.Log("dfsvchjnx");
+        Debug.Log("dfsvchjnx");
     }
 
     // Update is called once per frame

@@ -7,7 +7,7 @@ public class Ex_1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int count = 0
+        int count = 0;
         while (count < 20){
             int num = new Random(1, 21);
             if(num == 5){
@@ -21,6 +21,6 @@ public class Ex_1 : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
+    
    
 }
